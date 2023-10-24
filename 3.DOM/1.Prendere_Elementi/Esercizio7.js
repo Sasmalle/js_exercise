@@ -1,0 +1,1 @@
+/*Ottenere il valore selezionato di un elemento select.*/
